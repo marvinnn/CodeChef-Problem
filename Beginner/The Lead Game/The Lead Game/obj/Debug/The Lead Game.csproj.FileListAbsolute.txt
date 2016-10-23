@@ -1,0 +1,6 @@
+E:\CodeChef Project\The Lead Game\The Lead Game\bin\Debug\The Lead Game.exe.config
+E:\CodeChef Project\The Lead Game\The Lead Game\bin\Debug\The Lead Game.exe
+E:\CodeChef Project\The Lead Game\The Lead Game\bin\Debug\The Lead Game.pdb
+E:\CodeChef Project\The Lead Game\The Lead Game\obj\Debug\The Lead Game.csprojResolveAssemblyReference.cache
+E:\CodeChef Project\The Lead Game\The Lead Game\obj\Debug\The Lead Game.exe
+E:\CodeChef Project\The Lead Game\The Lead Game\obj\Debug\The Lead Game.pdb

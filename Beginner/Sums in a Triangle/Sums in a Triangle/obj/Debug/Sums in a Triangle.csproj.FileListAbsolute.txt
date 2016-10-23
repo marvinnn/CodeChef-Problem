@@ -1,0 +1,6 @@
+E:\CodeChef Project\Sums in a Triangle\Sums in a Triangle\bin\Debug\Sums in a Triangle.exe.config
+E:\CodeChef Project\Sums in a Triangle\Sums in a Triangle\bin\Debug\Sums in a Triangle.exe
+E:\CodeChef Project\Sums in a Triangle\Sums in a Triangle\bin\Debug\Sums in a Triangle.pdb
+E:\CodeChef Project\Sums in a Triangle\Sums in a Triangle\obj\Debug\Sums in a Triangle.csprojResolveAssemblyReference.cache
+E:\CodeChef Project\Sums in a Triangle\Sums in a Triangle\obj\Debug\Sums in a Triangle.exe
+E:\CodeChef Project\Sums in a Triangle\Sums in a Triangle\obj\Debug\Sums in a Triangle.pdb

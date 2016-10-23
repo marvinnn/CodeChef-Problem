@@ -1,0 +1,6 @@
+E:\CodeChef Project\Chef and Keyboard\Chef and Keyboard\bin\Debug\Chef and Keyboard.exe.config
+E:\CodeChef Project\Chef and Keyboard\Chef and Keyboard\bin\Debug\Chef and Keyboard.exe
+E:\CodeChef Project\Chef and Keyboard\Chef and Keyboard\bin\Debug\Chef and Keyboard.pdb
+E:\CodeChef Project\Chef and Keyboard\Chef and Keyboard\obj\Debug\Chef and Keyboard.csprojResolveAssemblyReference.cache
+E:\CodeChef Project\Chef and Keyboard\Chef and Keyboard\obj\Debug\Chef and Keyboard.exe
+E:\CodeChef Project\Chef and Keyboard\Chef and Keyboard\obj\Debug\Chef and Keyboard.pdb

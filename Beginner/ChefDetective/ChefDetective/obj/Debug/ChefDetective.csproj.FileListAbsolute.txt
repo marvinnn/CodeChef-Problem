@@ -1,0 +1,6 @@
+E:\CodeChef Project\ChefDetective\ChefDetective\bin\Debug\ChefDetective.exe.config
+E:\CodeChef Project\ChefDetective\ChefDetective\bin\Debug\ChefDetective.exe
+E:\CodeChef Project\ChefDetective\ChefDetective\bin\Debug\ChefDetective.pdb
+E:\CodeChef Project\ChefDetective\ChefDetective\obj\Debug\ChefDetective.csprojResolveAssemblyReference.cache
+E:\CodeChef Project\ChefDetective\ChefDetective\obj\Debug\ChefDetective.exe
+E:\CodeChef Project\ChefDetective\ChefDetective\obj\Debug\ChefDetective.pdb

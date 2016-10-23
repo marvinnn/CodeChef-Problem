@@ -1,0 +1,6 @@
+E:\CodeChef Project\Chef and Remisness\Chef and Remisness\bin\Debug\Chef and Remisness.exe.config
+E:\CodeChef Project\Chef and Remisness\Chef and Remisness\bin\Debug\Chef and Remisness.exe
+E:\CodeChef Project\Chef and Remisness\Chef and Remisness\bin\Debug\Chef and Remisness.pdb
+E:\CodeChef Project\Chef and Remisness\Chef and Remisness\obj\Debug\Chef and Remisness.csprojResolveAssemblyReference.cache
+E:\CodeChef Project\Chef and Remisness\Chef and Remisness\obj\Debug\Chef and Remisness.exe
+E:\CodeChef Project\Chef and Remisness\Chef and Remisness\obj\Debug\Chef and Remisness.pdb

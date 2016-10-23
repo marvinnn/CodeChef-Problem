@@ -1,0 +1,6 @@
+E:\CodeChef Project\Ambiguous Permutation\Ambiguous Permutation\bin\Debug\Ambiguous Permutation.exe.config
+E:\CodeChef Project\Ambiguous Permutation\Ambiguous Permutation\bin\Debug\Ambiguous Permutation.exe
+E:\CodeChef Project\Ambiguous Permutation\Ambiguous Permutation\bin\Debug\Ambiguous Permutation.pdb
+E:\CodeChef Project\Ambiguous Permutation\Ambiguous Permutation\obj\Debug\Ambiguous Permutation.csprojResolveAssemblyReference.cache
+E:\CodeChef Project\Ambiguous Permutation\Ambiguous Permutation\obj\Debug\Ambiguous Permutation.exe
+E:\CodeChef Project\Ambiguous Permutation\Ambiguous Permutation\obj\Debug\Ambiguous Permutation.pdb

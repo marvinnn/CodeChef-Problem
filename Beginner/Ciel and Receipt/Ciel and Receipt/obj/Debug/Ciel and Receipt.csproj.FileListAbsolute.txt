@@ -1,0 +1,6 @@
+E:\CodeChef Project\Ciel and Receipt\Ciel and Receipt\bin\Debug\Ciel and Receipt.exe.config
+E:\CodeChef Project\Ciel and Receipt\Ciel and Receipt\bin\Debug\Ciel and Receipt.exe
+E:\CodeChef Project\Ciel and Receipt\Ciel and Receipt\bin\Debug\Ciel and Receipt.pdb
+E:\CodeChef Project\Ciel and Receipt\Ciel and Receipt\obj\Debug\Ciel and Receipt.csprojResolveAssemblyReference.cache
+E:\CodeChef Project\Ciel and Receipt\Ciel and Receipt\obj\Debug\Ciel and Receipt.exe
+E:\CodeChef Project\Ciel and Receipt\Ciel and Receipt\obj\Debug\Ciel and Receipt.pdb

@@ -1,0 +1,6 @@
+E:\CodeChef Project\Cutting Recipes\Cutting Recipes\bin\Debug\Cutting Recipes.exe.config
+E:\CodeChef Project\Cutting Recipes\Cutting Recipes\bin\Debug\Cutting Recipes.exe
+E:\CodeChef Project\Cutting Recipes\Cutting Recipes\bin\Debug\Cutting Recipes.pdb
+E:\CodeChef Project\Cutting Recipes\Cutting Recipes\obj\Debug\Cutting Recipes.csprojResolveAssemblyReference.cache
+E:\CodeChef Project\Cutting Recipes\Cutting Recipes\obj\Debug\Cutting Recipes.exe
+E:\CodeChef Project\Cutting Recipes\Cutting Recipes\obj\Debug\Cutting Recipes.pdb

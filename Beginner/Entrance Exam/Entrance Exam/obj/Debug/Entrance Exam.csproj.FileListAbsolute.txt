@@ -1,0 +1,6 @@
+E:\CodeChef Project\Entrance Exam\Entrance Exam\bin\Debug\Entrance Exam.exe.config
+E:\CodeChef Project\Entrance Exam\Entrance Exam\bin\Debug\Entrance Exam.exe
+E:\CodeChef Project\Entrance Exam\Entrance Exam\bin\Debug\Entrance Exam.pdb
+E:\CodeChef Project\Entrance Exam\Entrance Exam\obj\Debug\Entrance Exam.csprojResolveAssemblyReference.cache
+E:\CodeChef Project\Entrance Exam\Entrance Exam\obj\Debug\Entrance Exam.exe
+E:\CodeChef Project\Entrance Exam\Entrance Exam\obj\Debug\Entrance Exam.pdb

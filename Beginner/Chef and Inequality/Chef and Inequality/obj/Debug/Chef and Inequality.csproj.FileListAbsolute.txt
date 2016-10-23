@@ -1,0 +1,6 @@
+E:\CodeChef Project\Chef and Inequality\Chef and Inequality\bin\Debug\Chef and Inequality.exe.config
+E:\CodeChef Project\Chef and Inequality\Chef and Inequality\bin\Debug\Chef and Inequality.exe
+E:\CodeChef Project\Chef and Inequality\Chef and Inequality\bin\Debug\Chef and Inequality.pdb
+E:\CodeChef Project\Chef and Inequality\Chef and Inequality\obj\Debug\Chef and Inequality.csprojResolveAssemblyReference.cache
+E:\CodeChef Project\Chef and Inequality\Chef and Inequality\obj\Debug\Chef and Inequality.exe
+E:\CodeChef Project\Chef and Inequality\Chef and Inequality\obj\Debug\Chef and Inequality.pdb

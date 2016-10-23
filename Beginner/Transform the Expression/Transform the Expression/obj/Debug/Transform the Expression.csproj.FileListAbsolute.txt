@@ -1,0 +1,6 @@
+E:\CodeChef Project\Transform the Expression\Transform the Expression\bin\Debug\Transform the Expression.exe.config
+E:\CodeChef Project\Transform the Expression\Transform the Expression\bin\Debug\Transform the Expression.exe
+E:\CodeChef Project\Transform the Expression\Transform the Expression\bin\Debug\Transform the Expression.pdb
+E:\CodeChef Project\Transform the Expression\Transform the Expression\obj\Debug\Transform the Expression.csprojResolveAssemblyReference.cache
+E:\CodeChef Project\Transform the Expression\Transform the Expression\obj\Debug\Transform the Expression.exe
+E:\CodeChef Project\Transform the Expression\Transform the Expression\obj\Debug\Transform the Expression.pdb

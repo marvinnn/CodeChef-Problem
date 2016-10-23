@@ -1,0 +1,5 @@
+E:\CodeChef Project\Factorial\Factorial\bin\Debug\Factorial.exe.config
+E:\CodeChef Project\Factorial\Factorial\bin\Debug\Factorial.exe
+E:\CodeChef Project\Factorial\Factorial\bin\Debug\Factorial.pdb
+E:\CodeChef Project\Factorial\Factorial\obj\Debug\Factorial.exe
+E:\CodeChef Project\Factorial\Factorial\obj\Debug\Factorial.pdb
