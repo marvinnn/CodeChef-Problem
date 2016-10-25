@@ -11,11 +11,11 @@ namespace ChefWatson_uses_Social_Network
             int numOfSpecial = input[0];
             int numOfPost = input[1];
             int[] specialFriendIndex = Array.ConvertAll(Console.ReadLine().Trim().Split(' '), int.Parse);
-            int[] friendIndex = new int[numOfPost-specialFriendIndex.Length];
-            int[] specialFriendPopularity = new int[specialFriendIndex.Length];
-            int[] friendPopularity = new int[numOfPost-specialFriendIndex.Length];
-            string[] specialFriendString = new string[specialFriendIndex.Length];
-            string[] friendString = new string[numOfPost-specialFriendIndex.Length];
+            int[] friendIndex = new int[numOfPost-numOfSpecial];
+            int[] specialFriendPopularity = new int[numOfSpecial];
+            int[] friendPopularity = new int[numOfPost-numOfSpecial];
+            string[] specialFriendString = new string[numOfSpecial];
+            string[] friendString = new string[numOfPost-numOfSpecial];
             int numOfSpecialFriend = 0, numOfNotSpecialFriend = 0;
             for(int i = 0; i < numOfPost; i++)
             {
